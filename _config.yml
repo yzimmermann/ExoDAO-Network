@@ -4,3 +4,5 @@ plugins:
 - jekyll-remote-theme
 title: ExoDAO Network
 description: [A short description of your site's purpose]
+toc:
+  enabled: true
